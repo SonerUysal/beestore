@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056842845949",
+    "project_id": "beestore-snr",
+    "storage_bucket": "beestore-snr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056842845949:android:5fa132ed7d7987a7e1f894",
+        "android_client_info": {
+          "package_name": "com.example.ders2_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConp3acoalJb5Y75C9NswxNYRkFwSruxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
